@@ -4,8 +4,12 @@ console.log(
 );
 
 const firstName = "Ross";
-let lastName = "Beckham";
-var age = 33;
+let lastName;
+var age;
+
+lastName = "Beckham"
+= 33;
+
 
 let language = "Javascript";
 let createdYear = 1995;
